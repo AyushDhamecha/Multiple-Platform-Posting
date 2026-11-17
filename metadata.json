@@ -1,0 +1,6 @@
+{
+  "name": "Automated Multi-Platform Posting System",
+  "description": "FastAPI multi-platform publishing service (POST /posting) and interactive API test workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
